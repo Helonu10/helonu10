@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 💙💙
 
 Meu nome é Heloá Nunes
 
@@ -6,10 +6,10 @@ Meu nome é Heloá Nunes
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo
+### Você pode entrar em contato comigo 📫
 
 00001107981396SP@al.educacao.sp.gov.br
 
 @Heloá Nunes
 
-![descrição do GIF](link GIF do Tenor)
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl1aDlteG9ra3NrenkzbTlvdXFvcmRvaWtsenZlanVmaHQ3a2F1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif)
